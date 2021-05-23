@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    font-weight: bold;
+}
+.grid{
+
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap:wrap;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 50px;
+    background-color:white;
+    width:310px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
