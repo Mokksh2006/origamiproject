@@ -3,6 +3,10 @@
     justify-content: space-between;
     padding:20px;
 }
+body{
+    margin:0px;
+    background-color:#87CEEB;
+}
 .menu{
     font-weight: bold;
 }
