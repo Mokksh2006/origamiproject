@@ -19,6 +19,7 @@ body{
 .grid img{
     border: 2px solid black;
     border-radius: 50px;
+    position: relative;
 }
 .origami{
     border-radius: 50px;
@@ -27,4 +28,16 @@ body{
     background-color:white;
     width:310px;
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a:visited{
+    color:white;
+}
+a:link{
+    color:white;
+}
+.origami:hover{
+    transform:scale(1.2);
+}
+a{
+    text-decoration:none;
 }
